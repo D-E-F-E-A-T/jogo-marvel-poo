@@ -1,0 +1,11 @@
+C:\Users\fic\Desktop\ving-certo\bin\Debug\netcoreapp3.0\ving-certo.exe
+C:\Users\fic\Desktop\ving-certo\bin\Debug\netcoreapp3.0\ving-certo.deps.json
+C:\Users\fic\Desktop\ving-certo\bin\Debug\netcoreapp3.0\ving-certo.runtimeconfig.json
+C:\Users\fic\Desktop\ving-certo\bin\Debug\netcoreapp3.0\ving-certo.runtimeconfig.dev.json
+C:\Users\fic\Desktop\ving-certo\bin\Debug\netcoreapp3.0\ving-certo.dll
+C:\Users\fic\Desktop\ving-certo\bin\Debug\netcoreapp3.0\ving-certo.pdb
+C:\Users\fic\Desktop\ving-certo\obj\Debug\netcoreapp3.0\ving-certo.csprojAssemblyReference.cache
+C:\Users\fic\Desktop\ving-certo\obj\Debug\netcoreapp3.0\ving-certo.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\ving-certo\obj\Debug\netcoreapp3.0\ving-certo.AssemblyInfo.cs
+C:\Users\fic\Desktop\ving-certo\obj\Debug\netcoreapp3.0\ving-certo.dll
+C:\Users\fic\Desktop\ving-certo\obj\Debug\netcoreapp3.0\ving-certo.pdb
